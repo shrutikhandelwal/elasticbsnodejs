@@ -1,0 +1,14 @@
+{
+  "name": "node10.14.2_agent20.6_226512",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "appdynamics": "^20.7.0"
+  }
+}
